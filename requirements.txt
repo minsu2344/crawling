@@ -1,0 +1,14 @@
+jupyter
+ipython
+jedi
+
+html5lib
+requests
+bs4
+urllib3
+lxml
+pandas
+finance-datareader
+pandas-datareader
+selenium
+matplotlib
